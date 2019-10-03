@@ -8,7 +8,7 @@ sidebar: toc
 
 ## Introduction
 
-SAPEC-2020 is the first official gathering of [SAPEC](index) (Southeast Asian Paleo Environments Consortium). At the same time it is also a workshop open to all aspiring early career scientists in paleoclimate fields. Along with 2 full days of fieldwork in our established BDNP study sites, there will be 3 days of intensive methodology instruction and discussion, ranging from generating data to producing complex models for climate reconstruction and all steps in between. For this purpose we will use samples and data already generated from our published studies in the region, the result of a long history of NSF funding.
+SAPEC-2020 is the first official gathering of [SAPEC](index.md) (Southeast Asian Paleo Environments Consortium). At the same time it is also a workshop open to all aspiring early career scientists in paleoclimate fields. Along with 2 full days of fieldwork in our established BDNP study sites, there will be 3 days of intensive methodology instruction and discussion, ranging from generating data to producing complex models for climate reconstruction and all steps in between. For this purpose we will use samples and data already generated from our published studies in the region, the result of a long history of NSF funding.
 
 **Time**  
 Pre-workshop: January 4-5, 2020  
