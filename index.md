@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Southeast Asian Paleo Enrivonments Consortium
 ---
 # About us
