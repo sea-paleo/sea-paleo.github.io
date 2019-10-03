@@ -28,8 +28,7 @@ twitter_username: Hung_TT_Nguyen
 github_username:  sea-paleo
 
 # Build settings
-#theme: minima
-remote_theme: broccolini/athena
+# remote_theme: broccolini/athena
 plugins:
   - jekyll-feed
 
