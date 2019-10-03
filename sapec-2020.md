@@ -1,5 +1,4 @@
 ---
-layout: default
 title: SAPEC-2020 — Data and Methods in Paleo Proxy Sciences
 ---
 
