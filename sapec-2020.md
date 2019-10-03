@@ -1,12 +1,9 @@
 ---
-layout: page
-title: SAPEC-2020
-sidebar: toc
+layout: default
+title: SAPEC-2020 — Data and Methods in Paleo Proxy Sciences
 ---
 
-# SAPEC-2020 -- Data and Methods in Paleo Proxy Sciences
-
-## Introduction
+# Introduction
 
 SAPEC-2020 is the first official gathering of [SAPEC](index.md) (Southeast Asian Paleo Environments Consortium). At the same time it is also a workshop open to all aspiring early career scientists in paleoclimate fields. Along with 2 full days of fieldwork in our established BDNP study sites, there will be 3 days of intensive methodology instruction and discussion, ranging from generating data to producing complex models for climate reconstruction and all steps in between. For this purpose we will use samples and data already generated from our published studies in the region, the result of a long history of NSF funding.
 
@@ -19,11 +16,11 @@ International Center for Tropical Highlands Ecosystems Research (ICTHER)
 Bidoup Nui Ba National Park (BDNP), Lam Dong Province, Vietnam
 
 [Register](https://forms.gle/NypjEr3EHKph5FCP8)
-## Participants
+# Participants
 
 Below are SAPEC members who have confirmed attendance.
 
-### Dendrochronology
+## Dendrochronology
 Brendan M. Buckley, Columbia University, US (Dendro)  
 Edward R. Cook, Columbia University, US (Dendro/Methods)  
 Justin T. Maxwell, Indiana University, US (Dendro/Ecology)  
@@ -34,7 +31,7 @@ Sylvia Passardi, WSL, CH (Dendro/Anatomy)
 Chenxi Xu, Chinese Academy of Science, CN (Dendro/Isotopes)  
 Fan Zexin, Xishuangbanna Tropical Botanical Garden, CN (Dendro/Ecology)
 
-### Sediments, Corals and Other Proxies
+## Sediments, Corals and Other Proxies
 Lora Stevens, California State University, Long Beach, US (Seds/Isotopes)  
 Yvette Eley, University of Birmingham, UK (Seds/leaf waxes)  
 Xin Zhou, University of Science & Technology of China, CN (Seds/Isotopes)  
@@ -42,23 +39,23 @@ Nathalie Goodkin, Nanyang Technological University, SG (Coral/Isotopes)
 Bridget Warren, University of Birmingham, UK (Seds/leaf waxes)  
 Toby Everard, University of Birmingham, UK (Seds/leaf waxes)  
 
-### Climate Dynamics/Hydrology
+## Climate Dynamics/Hydrology
 Shih-Yu Simon Wang, Utah State University, US (Climate Dynamics/Modeling)  
 Stefano Galelli, Singapore University of Technology and Design, SG (Hydrology/Methods)  
 Hung T.T. Nguyen, Singapore University of Technology and Design, SG (Hydrology/Methods)  
 
-### Other Disciplines
+## Other Disciplines
 Truong Luu Hong, Southern Institute of Technology, VN (Ecology/Botany)  
 Brian Zotolli, VN (Southeast Asian Historian)  
 Gretchen Coffman, University of San Francisco, US (Restoration Ecology)  
 
-## Program
+# Program
 
-### Pre-workshop (January 4--5)
+## Pre-workshop (January 4--5)
 
 Pre-workshop activities include preparing samples and informal discussions.
 
-### Main program (January 6--12)
+## Main program (January 6--12)
 
 * Day 1: Orientation & Introduction
 * Days 2 and 3: Sampling
@@ -70,7 +67,7 @@ Besides instructional presentations, participants will be given ample opportunit
 
 During most evenings, participants will share their own research in conference-style (12 minutes for presentation and 3 minutes Q&A).
 
-#### Program details
+### Program details
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -271,14 +268,14 @@ During most evenings, participants will share their own research in conference-s
   </tr>
 </table>
 
-## Cost
+# Cost
 
 * Main workshop: USD 800 per participant. The cost covers food, accommodation, venue, equipment, rangers, and transportation.
 * Pre-workshop: additional USD 250 per participants.
 
-## Logistics
+# Logistics
 
-### Arrival in Dalat
+## Arrival in Dalat
 
 Participants can choose one of two options:
 *	Group 1: arrive in Dalat on Monday Jan 6 on one of these two flights 
@@ -290,11 +287,11 @@ A bus will pick up group 1 from Dalat Airport at 8:30, then move to Dalat to pic
 
 During [registration](https://forms.gle/NypjEr3EHKph5FCP8), you will be asked for your preferred option.
 
-### Departure from Dalat
+## Departure from Dalat
 
 On Jan 12, bus will leave BDNP at 1 PM for Dalat. You should have enough time to take the evening flights back to Ho Chi Minh. Or you can stay longer and explore Dalat.
 
-### Contacts
+## Contacts
 
 Brendan M. Buckley (scientific matters)  
 bmb@ldeo.columbia.edu  
