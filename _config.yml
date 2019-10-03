@@ -29,8 +29,8 @@ github_username:  sea-paleo
 
 # Build settings
 # remote_theme: broccolini/athena
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 destination: public
 # Exclude from processing.
