@@ -270,7 +270,7 @@ During most evenings, participants will share their own research in conference-s
 # Cost
 
 * Main workshop: USD 800 per participant. The cost covers food, accommodation, venue, equipment, rangers, and transportation.
-* Pre-workshop: additional USD 250 per participants.
+* Pre-workshop: additional USD 250 per participant.
 
 # Logistics
 
