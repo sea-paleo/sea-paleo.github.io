@@ -4,7 +4,7 @@ title: SAPEC-2020 — Data and Methods in Paleo Proxy Sciences
 
 # Introduction
 
-SAPEC-2020 is the first official gathering of [SAPEC](index.md) (Southeast Asian Paleo Environments Consortium). At the same time it is also a workshop open to all aspiring early career scientists in paleoclimate fields. Along with 2 full days of fieldwork in our established BDNP study sites, there will be 3 days of intensive methodology instruction and discussion, ranging from generating data to producing complex models for climate reconstruction and all steps in between. For this purpose we will use samples and data already generated from our published studies in the region, the result of a long history of NSF funding.
+SAPEC-2020 is the first official gathering of the Southeast Asian Paleo Environments Consortium, as well as a workshop open to all aspiring early career scientists in paleoclimate fields. Along with two full days of fieldwork in our established Bidoup Nui Ba National Park (BDNP) study sites, Dr. Buckley will lead three days of intensive methodology instruction and discussion, ranging from generating data to producing complex models for climate reconstruction, and all the steps in between. For this purpose, we will use samples and data already generated from our published studies in the region, which are the result of a long history of NSF funding.
 
 **Time**  
 Pre-workshop: January 4-5, 2020  
@@ -263,7 +263,7 @@ During most evenings, participants will share their own research in conference-s
   </tr>
   <tr>
     <td class="tg-0pky">Afternoon</td>
-    <td class="tg-0pky">Lunch, closing, return to Dalat</td>
+    <td class="tg-0pky">Lunch, closing, return to  Da Lat</td>
   </tr>
 </table>
 
@@ -274,21 +274,21 @@ During most evenings, participants will share their own research in conference-s
 
 # Logistics
 
-## Arrival in Dalat
+## Arrival in Da Lat
 
 Participants can choose one of two options:
-*	Group 1: arrive in Dalat on Monday Jan 6 on one of these two flights 
-*	Group 2: arrive in Dalat on Sunday Jan 5 (or before) and stay there at your own cost. To ease logistics, we request that you stay at the same hotel, which we will recommend later.
+*	Group 1: arrive in Da Lat on Monday Jan 6 on one of these two flights 
+*	Group 2: arrive in Da Lat on Sunday Jan 5 (or before) and stay there at your own cost. To ease logistics, we request that you stay at the same hotel, which we will recommend later.
 
 ![](assets/flights.png)
 
-A bus will pick up group 1 from Dalat Airport at 8:30, then move to Dalat to pick up group 2, then head to BDNP. 
+Our bus to BDNP will pick up group 1 from Da Lat Airport at 8:30, then will pick up group 2 at the hotel.
 
 During [registration](https://forms.gle/NypjEr3EHKph5FCP8), you will be asked for your preferred option.
 
-## Departure from Dalat
+## Departure from Da Lat
 
-On Jan 12, bus will leave BDNP at 1 PM for Dalat. You should have enough time to take the evening flights back to Ho Chi Minh. Or you can stay longer and explore Dalat.
+On Jan 12, bus will leave BDNP at 1 PM for Da Lat. You should have enough time to take the evening flights back to Ho Chi Minh. Or you can stay longer and explore Da Lat.
 
 ## Contacts
 

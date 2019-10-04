@@ -25,8 +25,8 @@ Thida Swe, Forest Research Institute, Yezin, Myanmar
 Revathi Palat Rao, Delhi Faculty of Law, India  
 Quoc Trung Nguyen, Vietnam Academy of Science and Technology, HCMC, Vietnam  
 Student 1, Vietnam Academy of Science and Technology, HCMC, Vietnam  
-Student 1, Dalat University, Vietnam  
-Student 2, Dalat University, Vietnam  
+Student 1, Da Lat University, Vietnam  
+Student 2, Da Lat University, Vietnam  
 Student 1, BDNP, Vietnam  
 Student 2, BDNP, Vietnam  
 Local Person 1, Lam Dong Province (Kaval)  

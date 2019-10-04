@@ -23,7 +23,7 @@ January 5-6, 2019
 12.	Nguyễn Tân Thái Hưng,	Singapore University of Technology and Design
 13.	Nguyễn Văn Thiết,	Institue of Forest Science 
 14.	Lê Cảnh Nam,	Institue of Forest Science 
-15.	Nguyễn Văn Ngọc,	Dalat University
+15.	Nguyễn Văn Ngọc,	Da Lat University
 16.	Lưu Hồng Trường,	South Institue of Ecology
 17.	Trần Quốc Trung,	South Institue of Ecology
 18.	Lê Thanh Tịnh,	Phong Nha Ke Bang National Park
