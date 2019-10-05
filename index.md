@@ -6,11 +6,13 @@ title: Southeast Asian Paleo Enrivonments Consortium
 
 # About us
 
-Southeast Asian Paleo Environments Consortium (SAPEC) is a group of scientists dedicated to reconstructing and understanding variability of the paleo environment of Southeast Asia within the context of the greater global climate system. The SAPEC concept was developed by Dr. Brendan Buckley and co-PIs in 2009 at a PAGES-NSF sponsored workshop in Da Lat, Vietnam. The realization of his plan to bring multiple regional proxies together for a methods workshop began in earnest in January 2019 with the Isotopes in the Environment Workshop, January 2019 at the International Center for Tropical Highlands Ecosystems Research (ICTHER). This two-day meeting was attended by a small group of tree ring, speleothem, and lake sediment scientists, as well as historians working in the region. The first official gathering of SAPEC, called SAPEC-2020, will take place 4-12 January 2020 in Da Lat, Vietnam.
+Southeast Asian Paleo Environments Consortium (SAPEC) is a group of scientists dedicated to reconstructing and understanding variability of the paleo environment of Southeast Asia within the context of the greater global climate system. The SAPEC concept was developed by [Dr. Brendan Buckley](https://eesc.columbia.edu/faculty/brendan-buckley) (from Columbia University) and co-PIs in 2009 at a workshop in Da Lat, Vietnam, supported by [PAGES](http://pastglobalchanges.org/) and [NSF](https://nsf.gov/). The realization of his plan to bring multiple regional proxies together for a methods workshop began in earnest in January 2019 with the Isotopes in the Environment Workshop, January 2019 at the International Center for Tropical Highlands Ecosystems Research (ICTHER). This two-day meeting was attended by a small group of tree ring, speleothem, and lake sediment scientists, as well as historians working in the region. The first official gathering of SAPEC, called SAPEC-2020, will take place 4-12 January 2020 in Da Lat, Vietnam.
+
+SAPEC is not only about research. Dr. Buckley firmly believes in sharing knowledge with the local scientific community as well as the next generation of paleoscientists worldwide. Therefore, over the years we have conducted several field schools where participants learn from leading scientsts in multiple paleoclimate proxies.
 
 # Ideas for a field school
 
-An interview with Brendan Buckley in the early days.
+An interview with Dr. Brendan Buckley in the early days.
 
 *What was the catalyst for starting Bidoup Field School?*
 
