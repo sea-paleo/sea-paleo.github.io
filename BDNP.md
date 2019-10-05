@@ -45,7 +45,7 @@ Exhibit 5
 ![](assets/BDNP-sign.jpg)
 <p style="font-size:9pt">Source: Bidoup Nui Ba National Park</p>
 
-*This page is an except from an article written by Dr. Giles Jackon, Shenandoah University. View the original article [here](assets/2015-SciEcoProgBDNP-Giles.pdf).*
+*This page is an excerpt from an article written by Dr. Giles Jackson, Shenandoah University. View the original article [here](assets/2015-SciEcoProgBDNP-Giles.pdf).*
 
 Exhibit 6
 ![](assets/KHo-museum-plan.jpg)
