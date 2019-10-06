@@ -4,7 +4,7 @@ title: SAPEC-2020 — Data and Methods in Paleo Proxy Sciences
 
 # Introduction
 
-SAPEC-2020 is the first official gathering of the Southeast Asian Paleo Environments Consortium, as well as a workshop open to all aspiring early career scientists in paleoclimate fields. Along with two full days of fieldwork in our established Bidoup Nui Ba National Park (BDNP) study sites, Dr. Buckley will lead three days of intensive methodology instruction and discussion, ranging from generating data to producing complex models for climate reconstruction, and all the steps in between. For this purpose, we will use samples and data already generated from our published studies in the region, which are the result of a long history of NSF funding.
+SAPEC-2020 is the first official gathering of the Southeast Asian Paleo Environments Consortium, as well as a workshop open to all aspiring early career scientists in paleoclimate fields. Along with two full days of fieldwork in our established Bidoup Nui Ba National Park (BDNP) study sites, [Dr. Brendan Buckley](https://eesc.columbia.edu/faculty/brendan-buckley) (Columbia University) will lead three days of intensive methodology instruction and discussion, ranging from generating data to producing complex models for climate reconstruction, and all the steps in between. For this purpose, we will use samples and data already generated from our published studies in the region, which are the result of a long history of NSF funding.
 
 **Time**  
 Pre-workshop: January 4-5, 2020  

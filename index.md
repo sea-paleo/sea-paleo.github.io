@@ -1,8 +1,8 @@
 ---
-title: Southeast Asian Paleo Enrivonments Consortium
+title: Southeast Asian Paleo Environments Consortium
 ---
 
-![](assets/BDNP-scene.png)
+![](images/BDNP/BDNP-scene.jpg)
 
 # About us
 
