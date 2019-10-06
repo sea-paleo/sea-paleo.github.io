@@ -4,11 +4,17 @@ title: Gallery
 
 <div class="row">
   <div class="col">
-    <p>Bidoup scenery</p>
-
+    <p>
+      <a href="BDNP-scenery.html" style="font-size:20px">
+        Scenery
+      </a>
+    </p>
+    <p>
+      <a href="BDNP-scenery.html">
+        <img src="images/thumbs/scene-thumb.jpg" style="width:90%"/>
+      </a>
+    </p>
   </div>
-</div>
-<div class="row">
   <div class="col">
     <p>
       <a href="album-2015.html" style="font-size:20px">
@@ -17,7 +23,7 @@ title: Gallery
     </p>
     <p>
     <a href="album-2015.html">
-      <img src="images/thumbs/2015-thumb.jpg" style="width:40%"/>
+      <img src="images/thumbs/2015-thumb.jpg" style="width:90%"/>
     </a>
     </p>
   </div>
@@ -28,7 +34,7 @@ title: Gallery
     </a>
     </p>
     <a href="album-2016.html">
-      <img src="images/thumbs/2016-thumb.jpg" style="width:40%"/>
+      <img src="images/thumbs/2016-thumb.jpg" style="width:90%"/>
     </a>   
   </div>
 </div>
