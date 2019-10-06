@@ -269,7 +269,7 @@ During most evenings, participants will share their own research in conference-s
 
 # Cost
 
-* Main workshop: USD 850 per participant. The cost covers food, accommodation, conference room, sampling and measurement equipment, rangers, and transportatin.
+* Main workshop: USD 550 per participant. The cost covers food, accommodation, conference room, sampling and measurement equipment, rangers, and transportatin.
 * Pre-workshop: additional USD 250 per participant.
 
 Payment will be by telegraphic transfer to BDNP's account. BDNP will bear the transfer fee. After registering, you will receive an email with payment details.
