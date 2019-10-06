@@ -155,7 +155,7 @@ During most evenings, participants will share their own research in conference-s
     <td class="tg-0pky">
       <b>Measurement</b>
       <ul>
-        <li>Demonstration &amp; hands-on practice with CooRecorder: ring width &amp; BI</li>
+        <li>Demonstration andUpdate  hands-on practice with CooRecorder: ring width &amp; BI</li>
         <li>Wood anatomy analysis</li>
         <li>Data management with ODK</li>
       </ul>
@@ -170,8 +170,8 @@ During most evenings, participants will share their own research in conference-s
       <b>Chronology Building</b>
       <ul>
         <li>Cross-dating</li>      
-        <li>Detrending &amp; standardization</li>
-        <li>Demonstration: ARSTAN, COFECHA, &amp; dplR</li>
+        <li>Detrending and standardization</li>
+        <li>Demonstration: ARSTAN, COFECHA, and dplR</li>
       </ul>
     </td>
   </tr>  
@@ -263,14 +263,16 @@ During most evenings, participants will share their own research in conference-s
   </tr>
   <tr>
     <td class="tg-0pky">Afternoon</td>
-    <td class="tg-0pky">Lunch, closing, return to  Da Lat</td>
+    <td class="tg-0pky">Lunch, closing, return to Da Lat</td>
   </tr>
 </table>
 
 # Cost
 
-* Main workshop: USD 800 per participant. The cost covers food, accommodation, venue, equipment, rangers, and transportation.
+* Main workshop: USD 850 per participant. The cost covers food, accommodation, conference room, sampling and measurement equipment, rangers, and transportatin.
 * Pre-workshop: additional USD 250 per participant.
+
+Payment will be by telegraphic transfer to BDNP's account. BDNP will bear the transfer fee. After registering, you will receive an email with payment details.
 
 # Logistics
 
@@ -282,7 +284,7 @@ Participants can choose one of two options:
 
 ![](assets/flights.png)
 
-Our bus to BDNP will pick up group 1 from Da Lat Airport at 8:30, then will pick up group 2 at the hotel.
+Our bus to BDNP will pick up group 1 from Da Lat Airport at 8:30, then will pick up group 2 at the hotel at about 9:00.
 
 During [registration](https://forms.gle/NypjEr3EHKph5FCP8), you will be asked for your preferred option.
 
@@ -292,7 +294,7 @@ On Jan 12, bus will leave BDNP at 1 PM for Da Lat. You should have enough time t
 
 ## Contacts
 
-Brendan M. Buckley (scientific matters)  
+Brendan M. Buckley (scientific program)  
 bmb@ldeo.columbia.edu  
 Hung T.T Nguyen (logistics & outreach)    
 tanthaihung_nguyen@mymail.sutd.edu.sg
