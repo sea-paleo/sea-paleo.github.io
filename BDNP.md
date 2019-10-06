@@ -1,5 +1,5 @@
 ---
-title: Bidoup-Nui Ba National Park
+title: Bidoup Nui Ba National Park
 ---
 
 By  Dr. Giles Jackson, Shenandoah University
