@@ -294,7 +294,5 @@ On Jan 12, bus will leave BDNP at 1 PM for Da Lat. You should have enough time t
 
 ## Contacts
 
-Brendan M. Buckley (scientific program)  
-bmb@ldeo.columbia.edu  
-Hung T.T Nguyen (logistics & outreach)    
-tanthaihung_nguyen@mymail.sutd.edu.sg
+Brendan M. Buckley  
+bmb@ldeo.columbia.edu
