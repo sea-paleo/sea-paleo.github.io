@@ -2,7 +2,7 @@
 title: Dendro-Eco-Physiological Applications in Tropical Forest Research
 ---
 
-First ICHTER Field School  
+First ICTHER Field School  
 January 11-17, 2015  
 Bidoup Nui Ba National Park, Lam Dong Province, Vietnam  
 
