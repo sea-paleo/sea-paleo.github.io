@@ -17,13 +17,13 @@ Bidoup Nui Ba National Park (BDNP), Lam Dong Province, Vietnam
 [Register](https://forms.gle/NypjEr3EHKph5FCP8)
 # Participants
 
-Below are SAPEC members who have confirmed attendance.
-
 ## Dendrochronology
 Brendan M. Buckley, Columbia University, US (Dendro)  
 Edward R. Cook, Columbia University, US (Dendro/Methods)  
 Justin T. Maxwell, Indiana University, US (Dendro/Ecology)  
 Grant Harley, University of Idaho, US (Dendro/Speleo)  
+Tsun-Fung Au (Tom), Indiana University, US (Dendro)  
+Karen Heeter, University of Idaho, US (Dendro)  
 Paolo Cherubini, WSL, CH (Dendro/Anatomy)  
 Holger Gaertner, WSL, CH (Dendro/Anatomy)  
 Sylvia Passardi, WSL, CH (Dendro/Anatomy)  
@@ -31,12 +31,17 @@ Chenxi Xu, Chinese Academy of Science, CN (Dendro/Isotopes)
 Fan Zexin, Xishuangbanna Tropical Botanical Garden, CN (Dendro/Ecology)
 
 ## Sediments, Corals and Other Proxies
-Lora Stevens, California State University, Long Beach, US (Seds/Isotopes)  
+Simon Brassell, Indiana University, US (Seds/ Isotopes)  
 Yvette Eley, University of Birmingham, UK (Seds/leaf waxes)  
 Xin Zhou, University of Science & Technology of China, CN (Seds/Isotopes)  
-Nathalie Goodkin, Nanyang Technological University, SG (Coral/Isotopes)  
 Bridget Warren, University of Birmingham, UK (Seds/leaf waxes)  
 Toby Everard, University of Birmingham, UK (Seds/leaf waxes)  
+Alan Ziegler, National University of Singapore, SG (Seds/ geomorphology)  
+Kelsey Doiron, Indiana University, US (Seds/ Isotopes)  
+Dhrubajyoti Samanta, National University of Singapore (Corals/ Isotopes)  
+Khairun Nisha bte Md Ramzan, University of Queensland, AU (Seds/ Isotopes)  
+Anna-Marie Klamt, Yunnan Normal University, CN (Seds/ Isotopes)
+Nguyen Van Huong, Vietnam National University, VN (Seds/ Paleolimnology)  
 
 ## Climate Dynamics/Hydrology
 Shih-Yu Simon Wang, Utah State University, US (Climate Dynamics/Modeling)  
@@ -44,15 +49,24 @@ Stefano Galelli, Singapore University of Technology and Design, SG (Hydrology/Me
 Hung T.T. Nguyen, Singapore University of Technology and Design, SG (Hydrology/Methods)  
 
 ## Other Disciplines
-Truong Luu Hong, Southern Institute of Technology, VN (Ecology/Botany)  
-Brian Zotolli, VN (Southeast Asian Historian)  
 Gretchen Coffman, University of San Francisco, US (Restoration Ecology)  
+Nguyen Van Thiet, University of Melbourne, AU (Ecology)  
+Nguyen Thi Oanh, Vietnam National University, VN (Geology)  
+Elvagris Segovia, National University of Singapore, SG (Environmental Sciences)  
+Tan Fang Yi, Nanyang Technological University, SG  
+Christabel Tan, Nanyang Technological University, SG  
+Dang Bui Ngoc Han, VN  
+Le Canh Nam, VN (Forestry)  
+Pham Trong Nhan, Institute of Forest Sciences of Central Highlands, VN (Forestry)  
+Nguyen Tran Quoc Trung, Southern Institute of Ecology, VN (Ecology)  
+Nguyen Xuan Hau, National Cheng-Kung University, TW (Ecology)  
+Juliette Taieb, University of Paris I Pantheon-Sorbonne, FR (Archaeology)  
 
 # Program
 
 ## Pre-workshop (January 4--5)
 
-Pre-workshop activities include preparing samples and informal discussions.
+Pre-workshop activities include sampling at Cong Troi site, preparing samples, climate dynamics workshop, reproducible science workshop, and informal discussions.
 
 ## Main program (January 6--12)
 
