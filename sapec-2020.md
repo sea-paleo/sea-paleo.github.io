@@ -40,7 +40,7 @@ Alan Ziegler, National University of Singapore, SG (Seds/ geomorphology)
 Kelsey Doiron, Indiana University, US (Seds/ Isotopes)  
 Dhrubajyoti Samanta, National University of Singapore (Corals/ Isotopes)  
 Khairun Nisha bte Md Ramzan, University of Queensland, AU (Seds/ Isotopes)  
-Anna-Marie Klamt, Yunnan Normal University, CN (Seds/ Isotopes)
+Anna-Marie Klamt, Yunnan Normal University, CN (Paleolimnology)  
 Nguyen Van Huong, Vietnam National University, VN (Seds/ Paleolimnology)  
 
 ## Climate Dynamics/Hydrology
