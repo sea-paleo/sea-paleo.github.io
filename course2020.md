@@ -6,6 +6,8 @@
 
 [Shared folder](https://drive.google.com/drive/folders/1mUuUZ80TqBARQRT3GSN3KWJOMFrs14QG)
 
+[R workspace](https://rstudio.cloud/spaces/43890/join?access_code=tvDu%2B7PMndLH%2FFUqKtQXIxfkJqLGNFzM5BoS7U0f)
+
 # Course updates
 
 ## Day 1
