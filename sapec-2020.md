@@ -15,6 +15,9 @@ International Center for Tropical Highlands Ecosystems Research (ICTHER)
 Bidoup Nui Ba National Park (BDNP), Lam Dong Province, Vietnam
 
 [Register](https://forms.gle/NypjEr3EHKph5FCP8)
+
+[Course content](course2020.html)
+
 # Participants
 
 ## Dendrochronology
